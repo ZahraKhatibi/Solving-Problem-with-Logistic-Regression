@@ -1,5 +1,7 @@
 # Titanic Survival Prediction with Logistic Regression
 
+![](pic.png)
+
 This project focuses on predicting survival on the Titanic using logistic regression. The goal is to determine whether a passenger survived or not based on passenger information.
 
 ## Assignment
