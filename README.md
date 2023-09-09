@@ -7,10 +7,15 @@ This project focuses on predicting survival on the Titanic using logistic regres
 In this problem, we intend to solve the binary classification problem of survival on the Titanic using Logistic Regression. The dataset for this task is located in the 'Dataset' directory, with the 'Survived' column being the dependent variable, and the other columns representing independent features.
 
 1. Determine the data type (numeric or non-numeric) of each column.
+
 2. Upon initial inspection, are all features necessarily needed for prediction? If not, specify which ones are not needed and remove them from the dataset. (For example, the 'PassengerId' feature is a random value assigned to each person and may not have any direct relationship with a person's survival chances.)
+
 3. Since the Logistic Regression algorithm only accepts numerical input, provide a solution for non-numeric columns and explain it.
+
 4. Standardize the values in the dataset 
+
 5. Implement Logistic Regression along with regularization (weight decay). Optimize the learning rate and weight decay rate using 5-fold Cross-Validation with 10 repetitions. Analyze the impact of changes in these rates in terms of bias and variance and provide a written report.
+
 6. Finally, report the results on the test dataset.
 
 ## Dataset
