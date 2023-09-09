@@ -50,5 +50,3 @@ Hyperparameters (learning rate alpha and regularization parameter lambda) are tu
 ## Results
 
 The project concludes by making predictions on the test dataset using the best-trained logistic regression model. These predictions help identify passengers likely to have survived the Titanic disaster.
-
-The project demonstrates the entire process of using logistic regression for binary classification, from data exploration and preprocessing to model training and hyperparameter tuning. It emphasizes the importance of handling missing data, encoding categorical features, and finding the right hyperparameters for optimal model performance.
